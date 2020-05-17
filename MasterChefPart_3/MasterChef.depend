@@ -1,0 +1,419 @@
+# depslib dependency file v1.0
+1523081083 source:c:\users\angry laptop too\desktop\masterchef\main.cpp
+	"Team.h"
+
+1523029915 c:\users\angry laptop too\desktop\masterchef\player.h
+	<iostream>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1523029643 c:\users\angry laptop too\desktop\masterchef\team.h
+	<iostream>
+	<string>
+	"Player.h"
+
+1523030048 source:c:\users\angry laptop too\desktop\masterchef\team.cpp
+	"Team.h"
+	"Player.h"
+
+1523029901 source:c:\users\angry laptop too\desktop\masterchef\player.cpp
+	"Player.h"
+
+1523081242 source:c:\users\angry laptop too\desktop\masterchef\creativitycompetition.cpp
+
+1492455462 source:c:\users\angry laptop too\desktop\masterchef\immunitycompetition.cpp
+
+1492455468 source:c:\users\angry laptop too\desktop\masterchef\teamcompetition.cpp
+
+1523086414 source:c:\users\angry laptop too\desktop\solution\creativitycompetition.cpp
+	"CreativityCompetition.h"
+
+1523085631 source:c:\users\angry laptop too\desktop\solution\immunitycompetition.cpp
+	"ImmunityCompetition.h"
+
+1523084165 source:c:\users\angry laptop too\desktop\solution\player.cpp
+	"Player.h"
+
+1523029915 c:\users\angry laptop too\desktop\solution\player.h
+	<iostream>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1523030048 source:c:\users\angry laptop too\desktop\solution\team.cpp
+	"Team.h"
+	"Player.h"
+
+1523029643 c:\users\angry laptop too\desktop\solution\team.h
+	<iostream>
+	<string>
+	"Player.h"
+
+1523084395 source:c:\users\angry laptop too\desktop\solution\teamcompetition.cpp
+	"TeamCompetition.h"
+
+1523086021 source:c:\users\angry laptop too\desktop\solution\main.cpp
+	"Team.h"
+	"FoodAward.h"
+	"TeamCompetition.h"
+	"ImmunityAward.h"
+	"ImmunityCompetition.h"
+	"ExcursionAward.h"
+	"CreativityCompetition.h"
+	<time.h>
+
+1523081674 c:\users\angry laptop too\desktop\solution\teamcompetition.h
+	"Competition.h"
+
+1523082508 c:\users\angry laptop too\desktop\solution\competition.h
+	<string>
+	<iostream>
+	"Round.h"
+	"Player.h"
+	"Team.h"
+	"ExcursionAward.h"
+	"FoodAward.h"
+	"ImmunityAward.h"
+
+1492448202 c:\users\angry laptop too\desktop\solution\round.h
+	<iostream>
+	<string>
+
+1523082531 c:\users\angry laptop too\desktop\solution\excursionaward.h
+	"Award.h"
+	<cstdlib>
+
+1492454413 c:\users\angry laptop too\desktop\solution\award.h
+	<string>
+	<iostream>
+
+1523029363 c:\users\angry laptop too\desktop\solution\foodaward.h
+	"Award.h"
+	<cstdlib>
+
+1492454451 c:\users\angry laptop too\desktop\solution\immunityaward.h
+	"Award.h"
+
+1523081699 c:\users\angry laptop too\desktop\solution\immunitycompetition.h
+	"Competition.h"
+
+1523085927 c:\users\angry laptop too\desktop\solution\creativitycompetition.h
+	"Competition.h"
+
+1523086414 source:c:\users\maria\dropbox\object oriented programming\06_projects\03_part c\solution\creativitycompetition.cpp
+	"CreativityCompetition.h"
+
+1523085927 c:\users\maria\dropbox\object oriented programming\06_projects\03_part c\solution\creativitycompetition.h
+	"Competition.h"
+
+1523082508 c:\users\maria\dropbox\object oriented programming\06_projects\03_part c\solution\competition.h
+	<string>
+	<iostream>
+	"Round.h"
+	"Player.h"
+	"Team.h"
+	"ExcursionAward.h"
+	"FoodAward.h"
+	"ImmunityAward.h"
+
+1492448202 c:\users\maria\dropbox\object oriented programming\06_projects\03_part c\solution\round.h
+	<iostream>
+	<string>
+
+1523029915 c:\users\maria\dropbox\object oriented programming\06_projects\03_part c\solution\player.h
+	<iostream>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1523029643 c:\users\maria\dropbox\object oriented programming\06_projects\03_part c\solution\team.h
+	<iostream>
+	<string>
+	"Player.h"
+
+1523082531 c:\users\maria\dropbox\object oriented programming\06_projects\03_part c\solution\excursionaward.h
+	"Award.h"
+	<cstdlib>
+
+1492454413 c:\users\maria\dropbox\object oriented programming\06_projects\03_part c\solution\award.h
+	<string>
+	<iostream>
+
+1523029363 c:\users\maria\dropbox\object oriented programming\06_projects\03_part c\solution\foodaward.h
+	"Award.h"
+	<cstdlib>
+
+1492454451 c:\users\maria\dropbox\object oriented programming\06_projects\03_part c\solution\immunityaward.h
+	"Award.h"
+
+1523085631 source:c:\users\maria\dropbox\object oriented programming\06_projects\03_part c\solution\immunitycompetition.cpp
+	"ImmunityCompetition.h"
+
+1523081699 c:\users\maria\dropbox\object oriented programming\06_projects\03_part c\solution\immunitycompetition.h
+	"Competition.h"
+
+1523086021 source:c:\users\maria\dropbox\object oriented programming\06_projects\03_part c\solution\main.cpp
+	"Team.h"
+	"FoodAward.h"
+	"TeamCompetition.h"
+	"ImmunityAward.h"
+	"ImmunityCompetition.h"
+	"ExcursionAward.h"
+	"CreativityCompetition.h"
+	<time.h>
+
+1523081674 c:\users\maria\dropbox\object oriented programming\06_projects\03_part c\solution\teamcompetition.h
+	"Competition.h"
+
+1523084165 source:c:\users\maria\dropbox\object oriented programming\06_projects\03_part c\solution\player.cpp
+	"Player.h"
+
+1523030048 source:c:\users\maria\dropbox\object oriented programming\06_projects\03_part c\solution\team.cpp
+	"Team.h"
+	"Player.h"
+
+1523084395 source:c:\users\maria\dropbox\object oriented programming\06_projects\03_part c\solution\teamcompetition.cpp
+	"TeamCompetition.h"
+
+1523085631 source:c:\users\angry laptop too\desktop\solution part d\immunitycompetition.cpp
+	"ImmunityCompetition.h"
+
+1524425908 c:\users\angry laptop too\desktop\solution part d\immunitycompetition.h
+	"Competition.h"
+
+1524425793 c:\users\angry laptop too\desktop\solution part d\competition.h
+	<string>
+	<iostream>
+	"Player.h"
+	"Team.h"
+	"ImmunityAward.h"
+
+1492448202 c:\users\angry laptop too\desktop\solution part d\round.h
+	<iostream>
+	<string>
+
+1523029915 c:\users\angry laptop too\desktop\solution part d\player.h
+	<iostream>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1523029643 c:\users\angry laptop too\desktop\solution part d\team.h
+	<iostream>
+	<string>
+	"Player.h"
+
+1523082531 c:\users\angry laptop too\desktop\solution part d\excursionaward.h
+	"Award.h"
+	<cstdlib>
+
+1492454413 c:\users\angry laptop too\desktop\solution part d\award.h
+	<string>
+	<iostream>
+
+1523029363 c:\users\angry laptop too\desktop\solution part d\foodaward.h
+	"Award.h"
+	<cstdlib>
+
+1524426032 c:\users\angry laptop too\desktop\solution part d\immunityaward.h
+	"Award.h"
+
+1523084165 source:c:\users\angry laptop too\desktop\solution part d\player.cpp
+	"Player.h"
+
+1523030048 source:c:\users\angry laptop too\desktop\solution part d\team.cpp
+	"Team.h"
+	"Player.h"
+
+1523084395 source:c:\users\angry laptop too\desktop\solution part d\teamcompetition.cpp
+	"TeamCompetition.h"
+
+1523081674 c:\users\angry laptop too\desktop\solution part d\teamcompetition.h
+	"Competition.h"
+
+1524426239 source:c:\users\angry laptop too\desktop\solution part d\main.cpp
+	"Player.h"
+	"Team.h"
+	"ImmunityCompetition.h"
+	"Voting.h"
+
+1494100861 c:\users\angry laptop too\desktop\solution part d\voting.h
+	"Team.h"
+	"Vote.h"
+	<vector>
+	<map>
+
+1494085709 c:\users\angry laptop too\desktop\solution part d\vote.h
+
+1524427008 source:c:\users\angry laptop too\desktop\solution part d\voting.cpp
+
+1523085631 source:c:\users\angry laptop too\desktop\master chef part d\immunitycompetition.cpp
+	"ImmunityCompetition.h"
+
+1524425908 c:\users\angry laptop too\desktop\master chef part d\immunitycompetition.h
+	"Competition.h"
+
+1524425793 c:\users\angry laptop too\desktop\master chef part d\competition.h
+	<string>
+	<iostream>
+	"Player.h"
+	"Team.h"
+	"ImmunityAward.h"
+
+1524431775 c:\users\angry laptop too\desktop\master chef part d\player.h
+	<iostream>
+	<ctime>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1524433259 c:\users\angry laptop too\desktop\master chef part d\team.h
+	"Player.h"
+
+1524426032 c:\users\angry laptop too\desktop\master chef part d\immunityaward.h
+	"Award.h"
+
+1492454413 c:\users\angry laptop too\desktop\master chef part d\award.h
+	<string>
+	<iostream>
+
+1524432675 source:c:\users\angry laptop too\desktop\master chef part d\player.cpp
+	"Player.h"
+
+1524694144 source:c:\users\angry laptop too\desktop\master chef part d\team.cpp
+	"Team.h"
+
+1524426717 source:c:\users\angry laptop too\desktop\master chef part d\main.cpp
+	"Player.h"
+	"Team.h"
+	"ImmunityCompetition.h"
+	"Voting.h"
+
+1524428726 c:\users\angry laptop too\desktop\master chef part d\voting.h
+	"Team.h"
+	"Vote.h"
+	<vector>
+	<map>
+
+1524428656 c:\users\angry laptop too\desktop\master chef part d\vote.h
+
+1524428683 source:c:\users\angry laptop too\desktop\master chef part d\voting.cpp
+	"Voting.h"
+
+1524690544 source:c:\users\pantsaras\desktop\general\ÁÐÈ\6o\ÁíôéêåéìåíïóôñáöÞò Ðñïãñáììáôéóìüò\project\masterchefpartd\team.cpp
+	"Team.h"
+
+1524429659 c:\users\pantsaras\desktop\general\ÁÐÈ\6o\ÁíôéêåéìåíïóôñáöÞò Ðñïãñáììáôéóìüò\project\masterchefpartd\team.h
+	"Player.h"
+
+1524428175 c:\users\pantsaras\desktop\general\ÁÐÈ\6o\ÁíôéêåéìåíïóôñáöÞò Ðñïãñáììáôéóìüò\project\masterchefpartd\player.h
+	<iostream>
+	<ctime>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1526484004 source:c:\users\pantsaras\desktop\general\ÁÐÈ\6o\ÁíôéêåéìåíïóôñáöÞò Ðñïãñáììáôéóìüò\project\masterchefpartd\immunitycompetition.cpp
+	"ImmunityCompetition.h"
+
+1524422308 c:\users\pantsaras\desktop\general\ÁÐÈ\6o\ÁíôéêåéìåíïóôñáöÞò Ðñïãñáììáôéóìüò\project\masterchefpartd\immunitycompetition.h
+	"Competition.h"
+
+1524422193 c:\users\pantsaras\desktop\general\ÁÐÈ\6o\ÁíôéêåéìåíïóôñáöÞò Ðñïãñáììáôéóìüò\project\masterchefpartd\competition.h
+	<string>
+	<iostream>
+	"Player.h"
+	"Team.h"
+	"ImmunityAward.h"
+
+1524422432 c:\users\pantsaras\desktop\general\ÁÐÈ\6o\ÁíôéêåéìåíïóôñáöÞò Ðñïãñáììáôéóìüò\project\masterchefpartd\immunityaward.h
+	"Award.h"
+
+1492450813 c:\users\pantsaras\desktop\general\ÁÐÈ\6o\ÁíôéêåéìåíïóôñáöÞò Ðñïãñáììáôéóìüò\project\masterchefpartd\award.h
+	<string>
+	<iostream>
+
+1526483936 source:c:\users\pantsaras\desktop\general\ÁÐÈ\6o\ÁíôéêåéìåíïóôñáöÞò Ðñïãñáììáôéóìüò\project\masterchefpartd\player.cpp
+	"Player.h"
+
+1526476726 source:c:\users\pantsaras\desktop\general\ÁÐÈ\6o\ÁíôéêåéìåíïóôñáöÞò Ðñïãñáììáôéóìüò\project\masterchefpartd\main.cpp
+	"Player.h"
+	"Team.h"
+	"ImmunityCompetition.h"
+	"Voting.h"
+
+1526470591 c:\users\pantsaras\desktop\general\ÁÐÈ\6o\ÁíôéêåéìåíïóôñáöÞò Ðñïãñáììáôéóìüò\project\masterchefpartd\voting.h
+	<iostream>
+	<vector>
+	<map>
+	"Vote.h"
+	"Team.h"
+
+1526476852 c:\users\pantsaras\desktop\general\ÁÐÈ\6o\ÁíôéêåéìåíïóôñáöÞò Ðñïãñáììáôéóìüò\project\masterchefpartd\vote.h
+	<iostream>
+
+1526483871 source:c:\users\pantsaras\desktop\general\ÁÐÈ\6o\ÁíôéêåéìåíïóôñáöÞò Ðñïãñáììáôéóìüò\project\masterchefpartd\voting.cpp
+	"Voting.h"
+	"time.h"
+	<map>
+	"Team.h"
+
+1526484004 source:c:\users\pantsaras\desktop\general\ÁÐÈ\6o\ÁíôéêåéìåíïóôñáöÞò Ðñïãñáììáôéóìüò\project\masterchefpartdold\immunitycompetition.cpp
+	"ImmunityCompetition.h"
+
+1524422308 c:\users\pantsaras\desktop\general\ÁÐÈ\6o\ÁíôéêåéìåíïóôñáöÞò Ðñïãñáììáôéóìüò\project\masterchefpartdold\immunitycompetition.h
+	"Competition.h"
+
+1524422193 c:\users\pantsaras\desktop\general\ÁÐÈ\6o\ÁíôéêåéìåíïóôñáöÞò Ðñïãñáììáôéóìüò\project\masterchefpartdold\competition.h
+	<string>
+	<iostream>
+	"Player.h"
+	"Team.h"
+	"ImmunityAward.h"
+
+1524428175 c:\users\pantsaras\desktop\general\ÁÐÈ\6o\ÁíôéêåéìåíïóôñáöÞò Ðñïãñáììáôéóìüò\project\masterchefpartdold\player.h
+	<iostream>
+	<ctime>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1524429659 c:\users\pantsaras\desktop\general\ÁÐÈ\6o\ÁíôéêåéìåíïóôñáöÞò Ðñïãñáììáôéóìüò\project\masterchefpartdold\team.h
+	"Player.h"
+
+1524422432 c:\users\pantsaras\desktop\general\ÁÐÈ\6o\ÁíôéêåéìåíïóôñáöÞò Ðñïãñáììáôéóìüò\project\masterchefpartdold\immunityaward.h
+	"Award.h"
+
+1492450813 c:\users\pantsaras\desktop\general\ÁÐÈ\6o\ÁíôéêåéìåíïóôñáöÞò Ðñïãñáììáôéóìüò\project\masterchefpartdold\award.h
+	<string>
+	<iostream>
+
+1526476726 source:c:\users\pantsaras\desktop\general\ÁÐÈ\6o\ÁíôéêåéìåíïóôñáöÞò Ðñïãñáììáôéóìüò\project\masterchefpartdold\main.cpp
+	"Player.h"
+	"Team.h"
+	"ImmunityCompetition.h"
+	"Voting.h"
+
+1526470591 c:\users\pantsaras\desktop\general\ÁÐÈ\6o\ÁíôéêåéìåíïóôñáöÞò Ðñïãñáììáôéóìüò\project\masterchefpartdold\voting.h
+	<iostream>
+	<vector>
+	<map>
+	"Vote.h"
+	"Team.h"
+
+1526476852 c:\users\pantsaras\desktop\general\ÁÐÈ\6o\ÁíôéêåéìåíïóôñáöÞò Ðñïãñáììáôéóìüò\project\masterchefpartdold\vote.h
+	<iostream>
+
+1526483936 source:c:\users\pantsaras\desktop\general\ÁÐÈ\6o\ÁíôéêåéìåíïóôñáöÞò Ðñïãñáììáôéóìüò\project\masterchefpartdold\player.cpp
+	"Player.h"
+
+1524690544 source:c:\users\pantsaras\desktop\general\ÁÐÈ\6o\ÁíôéêåéìåíïóôñáöÞò Ðñïãñáììáôéóìüò\project\masterchefpartdold\team.cpp
+	"Team.h"
+
+1526483871 source:c:\users\pantsaras\desktop\general\ÁÐÈ\6o\ÁíôéêåéìåíïóôñáöÞò Ðñïãñáììáôéóìüò\project\masterchefpartdold\voting.cpp
+	"Voting.h"
+	"time.h"
+	<map>
+	"Team.h"
+

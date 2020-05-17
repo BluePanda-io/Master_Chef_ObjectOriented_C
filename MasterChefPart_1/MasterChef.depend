@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1521374248 source:c:\users\angry laptop too\desktop\masterchef\main.cpp
+	"Player.h"
+	"Team.h"
+
+1521319076 c:\users\angry laptop too\desktop\masterchef\player.h
+	<iostream>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1521319447 c:\users\angry laptop too\desktop\masterchef\team.h
+	<iostream>
+	<string>
+	"Player.h"
+
+1521373862 source:c:\users\angry laptop too\desktop\masterchef\team.cpp
+	"Team.h"
+	"Player.h"
+
+1521319813 source:c:\users\angry laptop too\desktop\masterchef\player.cpp
+	"Player.h"
+
+1522844396 source:c:\users\milto\documents\aaimortant\thmmy   hlektrologoi\10 examino\5) antikimenostrefis programatismos\2 ergasia\mastercher2018_part_b\masterchef\main.cpp
+	<iostream>
+	<string>
+	"Team.h"
+	"Player.h"
+
+1522837583 c:\users\milto\documents\aaimortant\thmmy   hlektrologoi\10 examino\5) antikimenostrefis programatismos\2 ergasia\mastercher2018_part_b\masterchef\team.h
+
+1522840779 source:c:\users\milto\documents\aaimortant\thmmy   hlektrologoi\10 examino\5) antikimenostrefis programatismos\2 ergasia\mastercher2018_part_b\masterchef\player.cpp
+	"Player.h"
+	<iostream>
+	<string>
+	<time.h>
+	<stdlib.h>
+
+1522839056 source:c:\users\milto\documents\aaimortant\thmmy   hlektrologoi\10 examino\5) antikimenostrefis programatismos\2 ergasia\mastercher2018_part_b\masterchef\team.cpp
+	<iostream>
+	"Team.h"
+
+1522839121 c:\users\milto\documents\aaimortant\thmmy   hlektrologoi\10 examino\5) antikimenostrefis programatismos\2 ergasia\mastercher2018_part_b\masterchef\player.h
+	<string>
+
